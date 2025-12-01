@@ -1,5 +1,5 @@
 // 1) Pega aquí la URL publicada de tu modelo de IMAGEN (termina en "/")
-  const URL = "https://teachablemachine.withgoogle.com/models/ooTR-JK3i/";
+  const URL = "https://teachablemachine.withgoogle.com/models/HDewpyeUV/";
 
   let model, webcam, labelContainer, maxPredictions;
 

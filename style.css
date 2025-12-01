@@ -22,12 +22,6 @@ footer {
     border-radius: 12px;
 }
 
-.info {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    margin-bottom: 12px
-}
 
 #btnStart {
     padding: 12px;
